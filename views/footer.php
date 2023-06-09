@@ -1,3 +1,11 @@
 <div id ="footer">
-    <h3>Autor: Jose Alem Rodriguez - PROGRAMACION WEB II - UNIVALLE</h3>
+       <!-- Footer -->
+            <footer class="sticky-footer bg-white">
+                <div class="container my-auto">
+                    <div class="copyright text-center my-auto">
+                        <span>Copyright &copy; Dieguito y el Jose en marcha hacia la aventura de php</span>
+                    </div>
+                </div>
+            </footer>
+            <!-- End of Footer -->
 </div>
