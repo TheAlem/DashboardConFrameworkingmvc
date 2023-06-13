@@ -7,6 +7,7 @@ class Model
     //nuestro objeto de conexion a la DB
     $this->db = new Database();
   }
+  
   function loadModel($model)
   {
     $url = 'models/' . $model . 'model.php';
@@ -17,6 +18,4 @@ class Model
     }
   }
 }
-
-
 ?>

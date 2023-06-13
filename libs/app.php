@@ -5,7 +5,7 @@ class App
     {
         //echo"<p>Mi aplicacion MVC de WEB II";
         // Lógica en la URL
-        $url = isset($_GET['url']) ? $_GET['url'] : 'main';
+        $url = isset($_GET['url']) ? $_GET['url'] : 'usuario';
         $url = explode("/", $url);
 
         //echo "<br>";
