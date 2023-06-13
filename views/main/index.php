@@ -23,7 +23,7 @@
 </head>
 
 <body id="page-top">
-
+<?php require_once 'libs/database.php'?>
     <!-- Page Wrapper -->
     <div id="wrapper">
 
