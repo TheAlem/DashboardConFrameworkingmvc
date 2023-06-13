@@ -50,6 +50,11 @@
                 <i class="fas fa-fw fa-wrench"></i>
                 <span>Error</span></a>
             </li>
+             <li class="nav-item">
+                <a class="nav-link" href="usuario">
+                <i class="fas fa-fw fa-wrench"></i>
+                <span>User</span></a>
+            </li>
 
             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
